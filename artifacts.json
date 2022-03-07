@@ -1,5 +1,7 @@
 {
-	"project-repository": "https://github.com/hjagarla/DSC180A_A09_cross_correlation",
-	"website-repository": "https://github.com/hjagarla/Cross_Correlation_Website", 
-	"artifact-repository": "https://github.com/hjagarla/DSC180A_A09_cross_correlation"
+    "this-repository": "https://github.com/hjagarla/DSC180A_A09_cross_correlation",
+    "project-repository": "https://github.com/hjagarla/DSC180A_A09_cross_correlation",
+    "dockerhub-repository": "https://hub.docker.com/repository/docker/kelkong/crosscorrelation",
+    "project-website-url": "http://hjagarla.github.io/Cross_Correlation_Website",
+    "project-website-code": "https://github.com/hjagarla/Cross_Correlation_Website"
 }
